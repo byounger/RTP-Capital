@@ -1,2 +1,2 @@
 # RTP-Capital
-Repository for website development
+Repository for website revamp (https://note-investing.com/)
