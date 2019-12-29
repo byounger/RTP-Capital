@@ -1,2 +1,2 @@
 # RTP-Capital
-Repository for RTP website development
+Repository for website development
